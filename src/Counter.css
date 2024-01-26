@@ -1,11 +1,10 @@
 .container{
     align-items: center;
     background-color: rgb(255, 224, 123);
-    
     font-family: serif;
 }
 .counter-box{
-    
+    text-align: center;
     justify-content: center;
 }
 .button-container{
