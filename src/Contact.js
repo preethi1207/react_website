@@ -1,7 +1,7 @@
 import React from 'react'
-import Service from './Service'
+import Effect from './Effect'
 export default function Contact() {
   return (
-    <div><Service/></div>
+    <div><Effect/></div>
   )
 }

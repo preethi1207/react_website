@@ -1,0 +1,15 @@
+.container{
+    align-items: center;
+    background-color: rgb(255, 224, 123);
+    
+    font-family: serif;
+}
+.counter-box{
+    
+    justify-content: center;
+}
+.button-container{
+    
+    content: icon;
+    justify-content: center;
+}

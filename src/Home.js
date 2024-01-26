@@ -1,7 +1,10 @@
 import React from 'react'
 import Service from './Service'
+import Reducer from './Reducer'
 export default function Home() {
   return (
-    <div><Service/></div>
+    <div><Service/>
+    <Reducer/></div>
+    
   )
 }

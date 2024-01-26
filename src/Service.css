@@ -1,10 +1,15 @@
 .service{
     display:grid;
-    grid-template-columns:repeat(4,1fr);
+    font-family:cursive;
+    grid-template-columns:repeat(3,1fr); 
+    /* background-color: rgb(228, 210, 236); */
+    color: brown;
     gap: 25px;
 }
 
 .service-item{
-    background-color:rgb(154, 185, 241);
+    background-color:rgb(227, 175, 194); 
+    border: 3px solid rgb(119, 225, 183);
     padding: 10px;
+    border-radius: 10px;
 }

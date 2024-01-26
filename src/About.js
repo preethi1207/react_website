@@ -1,7 +1,7 @@
 import React from 'react'
-
+import Counter from './Counter'
 export default function About() {
   return (
-    <div>About</div>
+    <div><Counter/></div>
   )
 }
